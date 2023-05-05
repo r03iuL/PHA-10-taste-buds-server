@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.351708442.1680364128&semt=robertav1_2_sidr",
+      "like": 100,
+      "experience": "Intermediate",
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&ga=GA1.2.351708442.1680364128&semt=robertav1_2_sidr",
+      "like": 500,
+      "experience": "Expert",
+      "name": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.351708442.1680364128&semt=robertav1_2_sidr",
+      "like": 50,
+      "experience": "Beginner",
+      "name": "Bob Johnson"
+    },
+    {
+      "id": 4,
+      "picture": "https://img.freepik.com/premium-photo/cropped-shot-young-male-chef-preparing-meal-professional-kitchen_579247-36.jpg?size=626&ext=jpg&ga=GA1.2.351708442.1680364128&semt=robertav1_2_sidr",
+      "like": 300,
+      "experience": "Advanced",
+      "name": "Sara Lee"
+    },
+    {
+      "id": 5,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?size=626&ext=jpg&ga=GA1.2.351708442.1680364128&semt=robertav1_2_sidr",
+      "like": 200,
+      "experience": "Intermediate",
+      "name": "Mark Thompson"
+    },
+    {
+      "id": 6,
+      "picture": "https://img.freepik.com/premium-photo/happy-male-indian-chef-standing-grey-wall_156779-277.jpg?size=626&ext=jpg&ga=GA1.2.351708442.1680364128&semt=robertav1_2_sidr",
+      "like": 75,
+      "experience": "Beginner",
+      "name": "Emily Chen"
+    }
+  ]
